@@ -1,0 +1,2 @@
+﻿  pch.cpp
+C:\MyProj\Core3\src\samples\core\extensions\COMServerDemo\UnitTest\pch.h(12,1): error C1083:  Cannot open type library file: 'c:\myproj\core3\src\samples\core\extensions\comserverdemo\comservernetpia\bin\debug\comservernetpia.dll': Error loading type library/DLL.

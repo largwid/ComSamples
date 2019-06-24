@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vscode
+/COMClient/bin/Debug
+/COMClient/obj
+/COMContract/bin/Debug/
+/COMContract/obj
+*.user
+/COMServer/bin/Debug/
+/COMServer/obj
+/COMServerNetPIA/bin/Debug
+/COMServerNetPIA/obj/Debug
+/COMServerPIA/bin/Debug/
+/COMServerPIA/obj
+/Contract/bin
+/Contract/obj
