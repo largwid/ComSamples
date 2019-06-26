@@ -9,6 +9,6 @@
 
 // add headers that you want to pre-compile here
 
-#import "COMServer.dll" no_namespace named_guids
+#import "COMServerNetPIA.dll" no_namespace named_guids
 
 #endif //PCH_H
